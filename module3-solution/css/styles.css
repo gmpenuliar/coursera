@@ -1,0 +1,22 @@
+.section-tile{
+	height: auto;
+}
+.section-tile h3{
+	padding-top: 10px;
+	text-align: center;
+}
+.section-tile p{
+	padding-left: 30px; 
+	padding-right: 30px; 
+	font-size: 16px; 
+	text-align: justify; 
+}
+.red{
+	color: #E1341E; 
+}
+.blue{
+	color: #1ECBE1; 
+}
+.green{
+	color: #50E11E; 
+}
